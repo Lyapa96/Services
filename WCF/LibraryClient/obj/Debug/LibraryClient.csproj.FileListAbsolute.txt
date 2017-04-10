@@ -1,0 +1,5 @@
+C:\Users\Максим\Desktop\Дз\LibraryClient\bin\Debug\LibraryClient.exe.config
+C:\Users\Максим\Desktop\Дз\LibraryClient\bin\Debug\LibraryClient.exe
+C:\Users\Максим\Desktop\Дз\LibraryClient\bin\Debug\LibraryClient.pdb
+C:\Users\Максим\Desktop\Дз\LibraryClient\obj\Debug\LibraryClient.exe
+C:\Users\Максим\Desktop\Дз\LibraryClient\obj\Debug\LibraryClient.pdb

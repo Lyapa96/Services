@@ -6,3 +6,9 @@ C:\Users\Максим\Desktop\Дз\LibraryClient\obj\Debug\LibraryClient.pdb
 C:\Users\Максим\Desktop\ForGit\WCF\LibraryClient\bin\Debug\LibraryClient.exe.config
 C:\Users\Максим\Desktop\ForGit\WCF\LibraryClient\obj\Debug\LibraryClient.exe
 C:\Users\Максим\Desktop\ForGit\WCF\LibraryClient\obj\Debug\LibraryClient.pdb
+C:\Users\Максим\Desktop\ForGit\WCF2\LibraryClient\bin\Debug\LibraryClient.exe.config
+C:\Users\Максим\Desktop\ForGit\WCF2\LibraryClient\obj\Debug\LibraryClient.exe
+C:\Users\Максим\Desktop\ForGit\WCF2\LibraryClient\obj\Debug\LibraryClient.pdb
+C:\Users\Максим\Desktop\ForGit\WCF2\LibraryClient\bin\Debug\LibraryClient.exe
+C:\Users\Максим\Desktop\ForGit\WCF2\LibraryClient\bin\Debug\LibraryClient.pdb
+C:\Users\Максим\Desktop\ForGit\WCF2\LibraryClient\obj\Debug\LibraryClient.csprojResolveAssemblyReference.cache
